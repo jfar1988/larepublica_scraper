@@ -1,0 +1,4 @@
+links = //h2/a/@href
+tutulo = //h2/a[@class = "finanzasSect"]/text()
+resumen = //div[@class = "lead"]/p/text()
+cuerpo = //div[@class = "html-content"]/p[not(@class)]/text()
